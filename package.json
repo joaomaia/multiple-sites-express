@@ -1,0 +1,12 @@
+{
+  "name": "multiple-sites-express",
+  "description": "Multiple Sites with Express",
+  "version": "0.0.1",
+  "author": "João Maia",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "express": ">=2.x.x"
+  }
+}
